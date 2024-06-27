@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en un proyecto propio.
 
-- 🌱 Actualmente estoy aprendiendo **Angular 17**
+- 🌱 Actualmente estoy aprendiendo **Angular 17** y explorando la implementación de arquitecturas de microservicios utilizando **Spring Cloud**
 
 - 💬 Preguntame sobre **Desarrollo backend usando Spring Boot**
 
