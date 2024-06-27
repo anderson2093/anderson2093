@@ -15,5 +15,5 @@
 
 <h2>Mis estadísticas de GitHub</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson2093&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson2093&theme=tokyonight&hide=typescript,html)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anderson2093&theme=tokyonight)](https://git.io/streak-stats)
