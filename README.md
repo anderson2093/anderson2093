@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Anderson Cusma</h1>
 <h3 align="center">Un apasionado desarrollador JAVA backend de Perú</h3>
 
-- 🔭 Actualmente estoy trabajando en [Doc Spot](https://github.com/ahuaracab/c18-39-n-java-angular)
+- 🔭 Actualmente estoy trabajando en un proyecto propio.
 
 - 🌱 Actualmente estoy aprendiendo **Angular 17**
 
