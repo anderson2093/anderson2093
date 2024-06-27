@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Anderson Cusma</h1>
 <h3 align="center">Un apasionado desarrollador JAVA backend de Perú</h3>
 
+![](https://komarev.com/ghpvc/?username=anderson2093)
+
 - 🔭 Actualmente estoy trabajando en un proyecto propio.
 
 - 🌱 Actualmente estoy aprendiendo **Angular 17** y explorando la implementación de arquitecturas de microservicios utilizando **Spring Cloud**
