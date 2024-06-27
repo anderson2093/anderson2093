@@ -12,7 +12,7 @@
 
 <h3 align="left">Lenguajes y Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,spring,postgresql,mysql,mongodb,docker,ubuntu,git,github,postman,html,css,tailwindcss,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,spring,postgresql,mysql,mongodb,docker,ubuntu,git,github,postman,angular,html,css,tailwindcss,bootstrap)](https://skillicons.dev)
 
 
 <h2>Mis estadísticas de GitHub</h2>
