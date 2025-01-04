@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=anderson2093)
 
-- 🔭 Actualmente estoy trabajando en un proyecto propio.
+- 🔭 Actualmente estoy trabajando como desarrollador freelance.
 
 - 🌱 Actualmente estoy aprendiendo **Flutter**
 
