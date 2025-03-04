@@ -14,7 +14,7 @@
 
 <h3 align="left">Lenguajes y Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,javascript,python,spring,hibernate,postgresql,mysql,mongodb,angular,docker,heroku,vercel,ubuntu,git,github,postman,angular,html,css,tailwindcss,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,javascript,python,spring,hibernate,postgresql,mysql,mongodb,angular,docker,heroku,vercel,ubuntu,git,github,postman,angular,flutter,html,css,tailwindcss,bootstrap)](https://skillicons.dev)
 
 
 <div>
