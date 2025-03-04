@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=anderson2093)
 
-- 🔭 Actualmente estoy trabajando como desarrollador freelance.
+- 🔭 Actualmente estoy trabajando como desarrollador Backend en Pangea Infinity.
 
 - 🌱 Actualmente estoy aprendiendo **Flutter**
 
