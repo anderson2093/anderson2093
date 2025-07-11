@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando como desarrollador Backend en Pangea Infinity.
 
-- 🌱 Actualmente estoy aprendiendo **Flutter**
+- 🌱 Actualmente estoy desarrollando un sistema de Gestión*
 
 - 💬 Preguntame sobre **Desarrollo backend usando Spring Boot**
 
